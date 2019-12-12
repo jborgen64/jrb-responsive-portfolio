@@ -8,4 +8,7 @@ body {
 
 .jakes-footer {
     background-color: #666666;
+    height: 60px;
+    border-top: 4px solid #4aaaa5;
 }
+
