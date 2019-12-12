@@ -6,4 +6,18 @@
 
 h1 {
     border-bottom: 2px solid #dddddd;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    height: 200px;
+    width: auto;
+    float: left;
+    margin: 15px;
+}
+
+p {
+    line-height: 25px;
+    letter-spacing: 2px;
+    font-size: large;
 }
