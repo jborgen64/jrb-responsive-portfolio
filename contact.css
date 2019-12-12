@@ -1,0 +1,9 @@
+.form-container {
+    width: 80%;
+    height: auto;
+    margin: 20px auto;
+    margin-top: 50px;
+    border: 2px solid #dddddd;
+    background-color: #ffffff;
+    padding: 20px;
+}
