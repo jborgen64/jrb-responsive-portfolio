@@ -1,3 +1,11 @@
 body {
     background-image: url("/Users/jborgen/jrb-portfolio/assets/images copy/ripples.jpg") ;
 }
+
+.jakes-navbar {
+    background-color: #ffffff;
+}
+
+.jakes-footer {
+    background-color: #666666;
+}
