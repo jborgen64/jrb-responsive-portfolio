@@ -4,8 +4,36 @@ body {
 
 .jakes-navbar {
     background-color: #ffffff;
+    border-bottom: 2px solid #666666;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0%;
+    height: 60px;
+    color: #ffffff;
 }
 
+
+.namebox{
+    background-color: #4aaaa5;
+    margin-left: 80px;
+    height: 100%;
+    width: 150px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.navmods {
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 50px;
+}
+
+.linkguys {
+    padding: 100px;
+}
+
+.togglermods {
+    margin-right: 50px;
+}
 .jakes-footer {
     background-color: #666666;
     height: 60px;
