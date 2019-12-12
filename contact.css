@@ -7,3 +7,9 @@
     background-color: #ffffff;
     padding: 20px;
 }
+
+h1 {
+    border-bottom: 2px solid #dddddd;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+}
